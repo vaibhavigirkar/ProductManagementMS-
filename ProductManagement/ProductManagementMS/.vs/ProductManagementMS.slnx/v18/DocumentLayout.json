@@ -1,0 +1,727 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4639EF9-D3E6-6AB4-06CA-6154F4ADFF3A}|ProductManagementMS\\ProductManagementMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4639EF9-D3E6-6AB4-06CA-6154F4ADFF3A}|ProductManagementMS\\ProductManagementMS.csproj|solutionrelative:productmanagementms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4639EF9-D3E6-6AB4-06CA-6154F4ADFF3A}|ProductManagementMS\\ProductManagementMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4639EF9-D3E6-6AB4-06CA-6154F4ADFF3A}|ProductManagementMS\\ProductManagementMS.csproj|solutionrelative:productmanagementms\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4639EF9-D3E6-6AB4-06CA-6154F4ADFF3A}|ProductManagementMS\\ProductManagementMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms\\controllers\\ridercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4639EF9-D3E6-6AB4-06CA-6154F4ADFF3A}|ProductManagementMS\\ProductManagementMS.csproj|solutionrelative:productmanagementms\\controllers\\ridercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4639EF9-D3E6-6AB4-06CA-6154F4ADFF3A}|ProductManagementMS\\ProductManagementMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms\\controllers\\productcommissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4639EF9-D3E6-6AB4-06CA-6154F4ADFF3A}|ProductManagementMS\\ProductManagementMS.csproj|solutionrelative:productmanagementms\\controllers\\productcommissioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4639EF9-D3E6-6AB4-06CA-6154F4ADFF3A}|ProductManagementMS\\ProductManagementMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4639EF9-D3E6-6AB4-06CA-6154F4ADFF3A}|ProductManagementMS\\ProductManagementMS.csproj|solutionrelative:productmanagementms\\controllers\\productcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4639EF9-D3E6-6AB4-06CA-6154F4ADFF3A}|ProductManagementMS\\ProductManagementMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms\\controllers\\premiumfrequencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4639EF9-D3E6-6AB4-06CA-6154F4ADFF3A}|ProductManagementMS\\ProductManagementMS.csproj|solutionrelative:productmanagementms\\controllers\\premiumfrequencycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4639EF9-D3E6-6AB4-06CA-6154F4ADFF3A}|ProductManagementMS\\ProductManagementMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms\\controllers\\insuranceproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4639EF9-D3E6-6AB4-06CA-6154F4ADFF3A}|ProductManagementMS\\ProductManagementMS.csproj|solutionrelative:productmanagementms\\controllers\\insuranceproductcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4639EF9-D3E6-6AB4-06CA-6154F4ADFF3A}|ProductManagementMS\\ProductManagementMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms\\controllers\\coveragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4639EF9-D3E6-6AB4-06CA-6154F4ADFF3A}|ProductManagementMS\\ProductManagementMS.csproj|solutionrelative:productmanagementms\\controllers\\coveragecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4639EF9-D3E6-6AB4-06CA-6154F4ADFF3A}|ProductManagementMS\\ProductManagementMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms\\controllers\\benefitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4639EF9-D3E6-6AB4-06CA-6154F4ADFF3A}|ProductManagementMS\\ProductManagementMS.csproj|solutionrelative:productmanagementms\\controllers\\benefitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4639EF9-D3E6-6AB4-06CA-6154F4ADFF3A}|ProductManagementMS\\ProductManagementMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4639EF9-D3E6-6AB4-06CA-6154F4ADFF3A}|ProductManagementMS\\ProductManagementMS.csproj|solutionrelative:productmanagementms\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.application\\dto\\insurance_productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|solutionrelative:productmanagementms.application\\dto\\insurance_productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98861489-85D3-78D0-1A03-8362913DA3B8}|ProductManagementMS.Infrastructure\\ProductManagementMS.Infrastructure.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.infrastructure\\repositories\\insuranceproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98861489-85D3-78D0-1A03-8362913DA3B8}|ProductManagementMS.Infrastructure\\ProductManagementMS.Infrastructure.csproj|solutionrelative:productmanagementms.infrastructure\\repositories\\insuranceproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4639EF9-D3E6-6AB4-06CA-6154F4ADFF3A}|ProductManagementMS\\ProductManagementMS.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4639EF9-D3E6-6AB4-06CA-6154F4ADFF3A}|ProductManagementMS\\ProductManagementMS.csproj|solutionrelative:productmanagementms\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98861489-85D3-78D0-1A03-8362913DA3B8}|ProductManagementMS.Infrastructure\\ProductManagementMS.Infrastructure.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.infrastructure\\repositories\\productcommissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98861489-85D3-78D0-1A03-8362913DA3B8}|ProductManagementMS.Infrastructure\\ProductManagementMS.Infrastructure.csproj|solutionrelative:productmanagementms.infrastructure\\repositories\\productcommissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98861489-85D3-78D0-1A03-8362913DA3B8}|ProductManagementMS.Infrastructure\\ProductManagementMS.Infrastructure.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.infrastructure\\repositories\\premiumfrequencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98861489-85D3-78D0-1A03-8362913DA3B8}|ProductManagementMS.Infrastructure\\ProductManagementMS.Infrastructure.csproj|solutionrelative:productmanagementms.infrastructure\\repositories\\premiumfrequencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98861489-85D3-78D0-1A03-8362913DA3B8}|ProductManagementMS.Infrastructure\\ProductManagementMS.Infrastructure.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.infrastructure\\repositories\\benefitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98861489-85D3-78D0-1A03-8362913DA3B8}|ProductManagementMS.Infrastructure\\ProductManagementMS.Infrastructure.csproj|solutionrelative:productmanagementms.infrastructure\\repositories\\benefitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98861489-85D3-78D0-1A03-8362913DA3B8}|ProductManagementMS.Infrastructure\\ProductManagementMS.Infrastructure.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.infrastructure\\repositories\\riderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98861489-85D3-78D0-1A03-8362913DA3B8}|ProductManagementMS.Infrastructure\\ProductManagementMS.Infrastructure.csproj|solutionrelative:productmanagementms.infrastructure\\repositories\\riderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98861489-85D3-78D0-1A03-8362913DA3B8}|ProductManagementMS.Infrastructure\\ProductManagementMS.Infrastructure.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.infrastructure\\repositories\\coverageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98861489-85D3-78D0-1A03-8362913DA3B8}|ProductManagementMS.Infrastructure\\ProductManagementMS.Infrastructure.csproj|solutionrelative:productmanagementms.infrastructure\\repositories\\coverageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98861489-85D3-78D0-1A03-8362913DA3B8}|ProductManagementMS.Infrastructure\\ProductManagementMS.Infrastructure.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.infrastructure\\repositories\\productcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98861489-85D3-78D0-1A03-8362913DA3B8}|ProductManagementMS.Infrastructure\\ProductManagementMS.Infrastructure.csproj|solutionrelative:productmanagementms.infrastructure\\repositories\\productcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.application\\interface\\iproductcommissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|solutionrelative:productmanagementms.application\\interface\\iproductcommissionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.application\\interface\\ipremiumfrequencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|solutionrelative:productmanagementms.application\\interface\\ipremiumfrequencyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.application\\interface\\iriderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|solutionrelative:productmanagementms.application\\interface\\iriderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.application\\interface\\ibenefitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|solutionrelative:productmanagementms.application\\interface\\ibenefitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.application\\interface\\icoverageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|solutionrelative:productmanagementms.application\\interface\\icoverageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.application\\interface\\iproductcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|solutionrelative:productmanagementms.application\\interface\\iproductcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.application\\mapper\\mappingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|solutionrelative:productmanagementms.application\\mapper\\mappingdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98861489-85D3-78D0-1A03-8362913DA3B8}|ProductManagementMS.Infrastructure\\ProductManagementMS.Infrastructure.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98861489-85D3-78D0-1A03-8362913DA3B8}|ProductManagementMS.Infrastructure\\ProductManagementMS.Infrastructure.csproj|solutionrelative:productmanagementms.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.application\\dto\\rider_masterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|solutionrelative:productmanagementms.application\\dto\\rider_masterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.application\\dto\\product_commissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|solutionrelative:productmanagementms.application\\dto\\product_commissiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.application\\dto\\product_categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|solutionrelative:productmanagementms.application\\dto\\product_categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.application\\dto\\premium_frequencydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|solutionrelative:productmanagementms.application\\dto\\premium_frequencydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.application\\dto\\coverage_masterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|solutionrelative:productmanagementms.application\\dto\\coverage_masterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.application\\dto\\benefit_masterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|solutionrelative:productmanagementms.application\\dto\\benefit_masterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DB9FF2-F984-71E3-C6D7-3D50081AB51E}|ProductManagementMS.Domain\\ProductManagementMS.Domain.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.domain\\entities\\rider_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DB9FF2-F984-71E3-C6D7-3D50081AB51E}|ProductManagementMS.Domain\\ProductManagementMS.Domain.csproj|solutionrelative:productmanagementms.domain\\entities\\rider_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DB9FF2-F984-71E3-C6D7-3D50081AB51E}|ProductManagementMS.Domain\\ProductManagementMS.Domain.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.domain\\entities\\product_commission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DB9FF2-F984-71E3-C6D7-3D50081AB51E}|ProductManagementMS.Domain\\ProductManagementMS.Domain.csproj|solutionrelative:productmanagementms.domain\\entities\\product_commission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DB9FF2-F984-71E3-C6D7-3D50081AB51E}|ProductManagementMS.Domain\\ProductManagementMS.Domain.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.domain\\entities\\product_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DB9FF2-F984-71E3-C6D7-3D50081AB51E}|ProductManagementMS.Domain\\ProductManagementMS.Domain.csproj|solutionrelative:productmanagementms.domain\\entities\\product_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DB9FF2-F984-71E3-C6D7-3D50081AB51E}|ProductManagementMS.Domain\\ProductManagementMS.Domain.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.domain\\entities\\premium_frequency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DB9FF2-F984-71E3-C6D7-3D50081AB51E}|ProductManagementMS.Domain\\ProductManagementMS.Domain.csproj|solutionrelative:productmanagementms.domain\\entities\\premium_frequency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DB9FF2-F984-71E3-C6D7-3D50081AB51E}|ProductManagementMS.Domain\\ProductManagementMS.Domain.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.domain\\entities\\insurance_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DB9FF2-F984-71E3-C6D7-3D50081AB51E}|ProductManagementMS.Domain\\ProductManagementMS.Domain.csproj|solutionrelative:productmanagementms.domain\\entities\\insurance_product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DB9FF2-F984-71E3-C6D7-3D50081AB51E}|ProductManagementMS.Domain\\ProductManagementMS.Domain.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.domain\\entities\\coverage_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DB9FF2-F984-71E3-C6D7-3D50081AB51E}|ProductManagementMS.Domain\\ProductManagementMS.Domain.csproj|solutionrelative:productmanagementms.domain\\entities\\coverage_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10DB9FF2-F984-71E3-C6D7-3D50081AB51E}|ProductManagementMS.Domain\\ProductManagementMS.Domain.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.domain\\entities\\benefit_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10DB9FF2-F984-71E3-C6D7-3D50081AB51E}|ProductManagementMS.Domain\\ProductManagementMS.Domain.csproj|solutionrelative:productmanagementms.domain\\entities\\benefit_master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.application\\interface\\iinsuranceproductservice..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|solutionrelative:productmanagementms.application\\interface\\iinsuranceproductservice..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Migrations\\20261020101047_InitialProductManagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.application\\productmanagementms.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E31752D-B2C2-7CEA-CCC8-852DF09F7FB7}|ProductManagementMS.Application\\ProductManagementMS.Application.csproj|solutionrelative:productmanagementms.application\\productmanagementms.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98861489-85D3-78D0-1A03-8362913DA3B8}|ProductManagementMS.Infrastructure\\ProductManagementMS.Infrastructure.csproj|c:\\users\\vaibh\\onedrive\\desktop\\insuranceapplication_new\\backend\\productmanagement\\productmanagementms\\productmanagementms.infrastructure\\migrations\\20261024080400_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98861489-85D3-78D0-1A03-8362913DA3B8}|ProductManagementMS.Infrastructure\\ProductManagementMS.Infrastructure.csproj|solutionrelative:productmanagementms.infrastructure\\migrations\\20261024080400_initdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 568,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductCategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS\\Controllers\\ProductCategoryController.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS\\Controllers\\ProductCategoryController.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS\\Controllers\\ProductCategoryController.cs",
+              "RelativeToolTip": "ProductManagementMS\\Controllers\\ProductCategoryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T12:42:26.287Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductCommissionController.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS\\Controllers\\ProductCommissionController.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS\\Controllers\\ProductCommissionController.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS\\Controllers\\ProductCommissionController.cs",
+              "RelativeToolTip": "ProductManagementMS\\Controllers\\ProductCommissionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:18:24.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RiderController.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS\\Controllers\\RiderController.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS\\Controllers\\RiderController.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS\\Controllers\\RiderController.cs",
+              "RelativeToolTip": "ProductManagementMS\\Controllers\\RiderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:36:54.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "ProductManagementMS\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-25T14:00:43.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS\\Program.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS\\Program.cs",
+              "RelativeToolTip": "ProductManagementMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T09:10:01.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PremiumFrequencyController.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS\\Controllers\\PremiumFrequencyController.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS\\Controllers\\PremiumFrequencyController.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS\\Controllers\\PremiumFrequencyController.cs",
+              "RelativeToolTip": "ProductManagementMS\\Controllers\\PremiumFrequencyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:11:50.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InsuranceProductController.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS\\Controllers\\InsuranceProductController.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS\\Controllers\\InsuranceProductController.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS\\Controllers\\InsuranceProductController.cs",
+              "RelativeToolTip": "ProductManagementMS\\Controllers\\InsuranceProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:20:53.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoverageController.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS\\Controllers\\CoverageController.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS\\Controllers\\CoverageController.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS\\Controllers\\CoverageController.cs",
+              "RelativeToolTip": "ProductManagementMS\\Controllers\\CoverageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:29:36.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BenefitController.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS\\Controllers\\BenefitController.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS\\Controllers\\BenefitController.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS\\Controllers\\BenefitController.cs",
+              "RelativeToolTip": "ProductManagementMS\\Controllers\\BenefitController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:01:01.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductManagementMS\\appsettings.json",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS\\appsettings.json",
+              "RelativeToolTip": "ProductManagementMS\\appsettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwA8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-20T09:08:14.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "insurance_productDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\DTO\\insurance_productDTO.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Application\\DTO\\insurance_productDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\DTO\\insurance_productDTO.cs",
+              "RelativeToolTip": "ProductManagementMS.Application\\DTO\\insurance_productDTO.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:18:29.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InsuranceProductService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Repositories\\InsuranceProductService.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Infrastructure\\Repositories\\InsuranceProductService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Repositories\\InsuranceProductService.cs",
+              "RelativeToolTip": "ProductManagementMS.Infrastructure\\Repositories\\InsuranceProductService.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAqwG0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:20:15.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductManagementMS\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductManagementMS\\Properties\\launchSettings.json",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-23T09:14:59.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20261024080400_initdb.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Migrations\\20261024080400_initdb.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Infrastructure\\Migrations\\20261024080400_initdb.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Migrations\\20261024080400_initdb.cs",
+              "RelativeToolTip": "ProductManagementMS.Infrastructure\\Migrations\\20261024080400_initdb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T08:04:00.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductCommissionService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Repositories\\ProductCommissionService.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Infrastructure\\Repositories\\ProductCommissionService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Repositories\\ProductCommissionService.cs",
+              "RelativeToolTip": "ProductManagementMS.Infrastructure\\Repositories\\ProductCommissionService.cs",
+              "ViewState": "AgIAAHgAAAAAAAAAAAAmwH4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:18:00.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PremiumFrequencyService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Repositories\\PremiumFrequencyService.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Infrastructure\\Repositories\\PremiumFrequencyService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Repositories\\PremiumFrequencyService.cs",
+              "RelativeToolTip": "ProductManagementMS.Infrastructure\\Repositories\\PremiumFrequencyService.cs",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAgwIkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:11:17.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BenefitService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Repositories\\BenefitService.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Infrastructure\\Repositories\\BenefitService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Repositories\\BenefitService.cs",
+              "RelativeToolTip": "ProductManagementMS.Infrastructure\\Repositories\\BenefitService.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAgwGUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:00:35.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RiderService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Repositories\\RiderService.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Infrastructure\\Repositories\\RiderService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Repositories\\RiderService.cs",
+              "RelativeToolTip": "ProductManagementMS.Infrastructure\\Repositories\\RiderService.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAmwHIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:36:34.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CoverageService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Repositories\\CoverageService.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Infrastructure\\Repositories\\CoverageService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Repositories\\CoverageService.cs",
+              "RelativeToolTip": "ProductManagementMS.Infrastructure\\Repositories\\CoverageService.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAmwHUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:29:10.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProductCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Repositories\\ProductCategoryService.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Infrastructure\\Repositories\\ProductCategoryService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Repositories\\ProductCategoryService.cs",
+              "RelativeToolTip": "ProductManagementMS.Infrastructure\\Repositories\\ProductCategoryService.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAmwHoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T12:37:08.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IProductCommissionService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\Interface\\IProductCommissionService.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Application\\Interface\\IProductCommissionService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\Interface\\IProductCommissionService.cs",
+              "RelativeToolTip": "ProductManagementMS.Application\\Interface\\IProductCommissionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:17:31.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IPremiumFrequencyService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\Interface\\IPremiumFrequencyService.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Application\\Interface\\IPremiumFrequencyService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\Interface\\IPremiumFrequencyService.cs",
+              "RelativeToolTip": "ProductManagementMS.Application\\Interface\\IPremiumFrequencyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:10:53.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IRiderService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\Interface\\IRiderService.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Application\\Interface\\IRiderService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\Interface\\IRiderService.cs",
+              "RelativeToolTip": "ProductManagementMS.Application\\Interface\\IRiderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:36:12.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IBenefitService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\Interface\\IBenefitService.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Application\\Interface\\IBenefitService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\Interface\\IBenefitService.cs",
+              "RelativeToolTip": "ProductManagementMS.Application\\Interface\\IBenefitService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:00:12.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ICoverageService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\Interface\\ICoverageService.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Application\\Interface\\ICoverageService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\Interface\\ICoverageService.cs",
+              "RelativeToolTip": "ProductManagementMS.Application\\Interface\\ICoverageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:28:46.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IProductCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\Interface\\IProductCategoryService.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Application\\Interface\\IProductCategoryService.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\Interface\\IProductCategoryService.cs",
+              "RelativeToolTip": "ProductManagementMS.Application\\Interface\\IProductCategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T12:36:22.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MappingData.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\Mapper\\MappingData.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Application\\Mapper\\MappingData.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\Mapper\\MappingData.cs",
+              "RelativeToolTip": "ProductManagementMS.Application\\Mapper\\MappingData.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T12:35:40.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProductManagementMS.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAwwOgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T09:09:02.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "rider_masterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\DTO\\rider_masterDTO.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Application\\DTO\\rider_masterDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\DTO\\rider_masterDTO.cs",
+              "RelativeToolTip": "ProductManagementMS.Application\\DTO\\rider_masterDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowA8AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:35:25.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "product_commissionDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\DTO\\product_commissionDTO.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Application\\DTO\\product_commissionDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\DTO\\product_commissionDTO.cs",
+              "RelativeToolTip": "ProductManagementMS.Application\\DTO\\product_commissionDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:16:54.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "product_categoryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\DTO\\product_categoryDTO.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Application\\DTO\\product_categoryDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\DTO\\product_categoryDTO.cs",
+              "RelativeToolTip": "ProductManagementMS.Application\\DTO\\product_categoryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T12:35:05.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "premium_frequencyDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\DTO\\premium_frequencyDTO.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Application\\DTO\\premium_frequencyDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\DTO\\premium_frequencyDTO.cs",
+              "RelativeToolTip": "ProductManagementMS.Application\\DTO\\premium_frequencyDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T16:10:12.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "coverage_masterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\DTO\\coverage_masterDTO.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Application\\DTO\\coverage_masterDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\DTO\\coverage_masterDTO.cs",
+              "RelativeToolTip": "ProductManagementMS.Application\\DTO\\coverage_masterDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA3wBMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:28:01.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "benefit_masterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\DTO\\benefit_masterDTO.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Application\\DTO\\benefit_masterDTO.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\DTO\\benefit_masterDTO.cs",
+              "RelativeToolTip": "ProductManagementMS.Application\\DTO\\benefit_masterDTO.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:59:23.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "rider_master.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Domain\\Entities\\rider_master.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Domain\\Entities\\rider_master.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Domain\\Entities\\rider_master.cs",
+              "RelativeToolTip": "ProductManagementMS.Domain\\Entities\\rider_master.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:02:02.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "product_commission.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Domain\\Entities\\product_commission.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Domain\\Entities\\product_commission.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Domain\\Entities\\product_commission.cs",
+              "RelativeToolTip": "ProductManagementMS.Domain\\Entities\\product_commission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:03:22.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "product_category.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Domain\\Entities\\product_category.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Domain\\Entities\\product_category.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Domain\\Entities\\product_category.cs",
+              "RelativeToolTip": "ProductManagementMS.Domain\\Entities\\product_category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T09:56:35.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "premium_frequency.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Domain\\Entities\\premium_frequency.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Domain\\Entities\\premium_frequency.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Domain\\Entities\\premium_frequency.cs",
+              "RelativeToolTip": "ProductManagementMS.Domain\\Entities\\premium_frequency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:02:51.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "insurance_product.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Domain\\Entities\\insurance_product.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Domain\\Entities\\insurance_product.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Domain\\Entities\\insurance_product.cs",
+              "RelativeToolTip": "ProductManagementMS.Domain\\Entities\\insurance_product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAEBQwBUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:01:13.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "coverage_master.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Domain\\Entities\\coverage_master.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Domain\\Entities\\coverage_master.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Domain\\Entities\\coverage_master.cs",
+              "RelativeToolTip": "ProductManagementMS.Domain\\Entities\\coverage_master.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:01:35.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "benefit_master.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Domain\\Entities\\benefit_master.cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Domain\\Entities\\benefit_master.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Domain\\Entities\\benefit_master.cs",
+              "RelativeToolTip": "ProductManagementMS.Domain\\Entities\\benefit_master.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:02:24.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IInsuranceProductService..cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\Interface\\IInsuranceProductService..cs",
+              "RelativeDocumentMoniker": "ProductManagementMS.Application\\Interface\\IInsuranceProductService..cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\Interface\\IInsuranceProductService..cs",
+              "RelativeToolTip": "ProductManagementMS.Application\\Interface\\IInsuranceProductService..cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:19:10.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20261020101047_InitialProductManagement.cs",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Migrations\\20261020101047_InitialProductManagement.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\InsuranceApplication\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Migrations\\20261020101047_InitialProductManagement.cs",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Migrations\\20261020101047_InitialProductManagement.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\InsuranceApplication\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Infrastructure\\Migrations\\20261020101047_InitialProductManagement.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T10:10:48.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ProductManagementMS.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\ProductManagementMS.Application.csproj",
+              "RelativeDocumentMoniker": "ProductManagementMS.Application\\ProductManagementMS.Application.csproj",
+              "ToolTip": "C:\\Users\\vaibh\\OneDrive\\Desktop\\InsuranceApplication_New\\Backend\\ProductManagement\\ProductManagementMS\\ProductManagementMS.Application\\ProductManagementMS.Application.csproj",
+              "RelativeToolTip": "ProductManagementMS.Application\\ProductManagementMS.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-20T07:25:59.519Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
